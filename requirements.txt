@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+pillow
+werkzeug
+scikit-learn
+pandas
+numpy
+scikit-learn-intelex
+openai
+xgboost
+scikit-image
+opencv-python-headless

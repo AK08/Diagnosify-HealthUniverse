@@ -1,11 +1,10 @@
 import openai
 import streamlit as st
+import os
+openai.api_key = os.environ.get("OPENAI")
 
 st.title("NeuroBot")
 st.markdown("##### Welcome to NeuroBot AI Assistant, your companion for brain disease information!")
-
-
-openai.api_key = st.secrets['openai']
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"

@@ -60,7 +60,7 @@
 Diagnosify is an innovative neurological diagnosis platform that assists medical professionals in diagnosing neurological diseases. In the modern healthcare landscape, early and accurate diagnosis plays a pivotal role in ensuring timely medical interventions and improved patient outcomes. Diagnosify addresses this need by offering a platform that assists medical professionals in brain diagnosing various diseases using advanced machine learning techniques. The project focuses on the classification of diseases such as Brain Tumor, Alzheimer's Disease and Parkinson's Disease. This repository contains the code and resources used to train and deploy the disease classification models.
 
 #### Pioneered the world's first publicly accessible Parkinson's Disease Detector (based on spiral and wave drawings).
-#### Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction,
+#### Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction.
 #### All of our models have an accuracy of 94%+.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

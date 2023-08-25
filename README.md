@@ -19,7 +19,7 @@
     <br />
     <a href="https://drive.google.com/file/d/1itKq5K-_9NWnvV7kbW4jGxd6lTLQHwen/view?usp=sharing">View Video</a>
     ·
-    <a href="https://diagnosify.streamlit.app/">View Deployment</a>
+    <a href="https://apps.healthuniverse.com/bhr-rwr-ghi/">View Deployment</a>
   </p>
 </div>
 

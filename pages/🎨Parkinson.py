@@ -69,7 +69,11 @@ def main():
     model_option = st.selectbox("Select Model", ("Spiral", "Wave"))
 
     uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
-
+    
+    
+    st.markdown("Test for yourself : [Sample Images](https://github.com/AK08/Diagnosify-HealthUniverse/tree/main/test-dataset/Parkinson)")
+    
+        
     if uploaded_file is not None:
         image = Image.open(uploaded_file)
         st.image(image, caption="Uploaded Image", use_column_width=True)

@@ -36,6 +36,9 @@ def main():
     st.write("Upload an MRI scan image for prediction")
 
     uploaded_file = st.file_uploader("Choose an MRI scan image...", type=["jpg", "png"])
+    
+    st.markdown("Test for yourself : [Sample Images](https://github.com/AK08/Diagnosify-HealthUniverse/tree/main/test-dataset/Alzheimer)")
+    
 
     if uploaded_file is not None:
         st.image(uploaded_file, caption='Uploaded MRI scan.', use_column_width=True)

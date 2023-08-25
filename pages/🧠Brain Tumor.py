@@ -33,6 +33,10 @@ def main():
     st.text("Upload an MRI scan image to check for brain tumor")
 
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png"])
+    
+    st.markdown("Test for yourself : [Sample Images](https://github.com/AK08/Diagnosify-HealthUniverse/tree/main/test-dataset/Brain%20Tumor)")
+    
+    
 
     if uploaded_file is not None:
         image = Image.open(uploaded_file)

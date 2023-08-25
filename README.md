@@ -75,6 +75,22 @@ The inspiration behind the creation of Diagnosify stems from the pressing need f
 
 3. <b>Technological Advancements in Medical Imaging: </b> The rapid advancements in medical imaging technologies, such as MRI, CT scans, and dermatological imaging, have led to an abundance of data that can potentially be harnessed for disease diagnosis. Diagnosify leverages these technologies to analyze intricate medical images and data, extracting valuable insights that can aid in disease classification.
 
+
+### Health Universe <img src="images/inspo.png" alt="png" width="30">
+Health Universe is an open-source platform that aggregates, organizes, and operationalizes 1-click models, from basic scientific research to state-of-the-art AI. It is a community bringing cutting-edge statistical models to researchers, drug developers, health policy researchers, and clinicians at the point of care to improve outcomes and lower costs.
+
+Health Universe is a web-based platform that allows users to search for and deploy models, as well as contribute their own models. The platform provides a variety of features to help users find the right model for their needs, including:
+
+1. <b>A search engine that allows users to search for models by keyword, disease, or other criteria </b>
+
+2. <b>A catalog of models that includes information about each model, such as its performance, vetting status, and origin </b>
+
+3. <b>The ability to deploy models in a variety of settings, including Jupyter notebooks, Streamlit apps, and R Markdown documents </b>
+
+4. <b>The ability to contribute models to the platform </b>
+
+Health Universe is still under development, but it has the potential to revolutionize the way health research is conducted. By making it easy for researchers to find and deploy models, Health Universe can help to accelerate the pace of discovery and improve the quality of care.
+
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
 The "Diagnosify - Brain Disease Classification" project has the potential to create significant social impact in several ways:
 

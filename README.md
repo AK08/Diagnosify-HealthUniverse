@@ -75,22 +75,6 @@ The inspiration behind the creation of Diagnosify stems from the pressing need f
 
 3. <b>Technological Advancements in Medical Imaging: </b> The rapid advancements in medical imaging technologies, such as MRI, CT scans, and dermatological imaging, have led to an abundance of data that can potentially be harnessed for disease diagnosis. Diagnosify leverages these technologies to analyze intricate medical images and data, extracting valuable insights that can aid in disease classification.
 
-### Deploying the Project with Health Universe
-
-To deploy the project with Health Universe, I followed these steps:
-
-1. <b>We pushed our local repo to GitHub. </b>
-
-2. <b>Created a Health Universe account </b>
-
-3. <b>Went to https://healthuniverse.com and navigated to "Apps</b>
-
-4. <b>Clicked "Add App" to create a new app</b>
-
-5. <b>Filled out detailed about App Name, Description, Github Account, Github Repo and Main File</b>
-
-6. <b>Clicked "Add App" to deploy our app</b>
-
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
 The "Diagnosify - HealthUniverse" project has the potential to create significant social impact in several ways:
 
@@ -217,6 +201,23 @@ These are the steps involved in making this project:
 * Deploying the Model as a Web Application using Streamlit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Deploying the Project with Health Universe
+
+To deploy the project with Health Universe, I followed these steps:
+
+1. <b>We pushed our local repo to GitHub. </b>
+
+2. <b>Created a Health Universe account </b>
+
+3. <b>Went to https://healthuniverse.com and navigated to "Apps</b>
+
+4. <b>Clicked "Add App" to create a new app</b>
+
+5. <b>Filled out detailed about App Name, Description, Github Account, Github Repo and Main File</b>
+
+6. <b>Clicked "Add App" to deploy our app</b>
 
 ## What we learned <img src="images/learn.png" alt="png" width="30">
 ✅Building Diagnosify using oneDNN and Intel oneAPIs has been a transformative journey, providing us with a deep understanding of cutting-edge technologies and their practical applications in the field of brain disease classification. Here's a summary of key learnings from this experience:

@@ -19,7 +19,7 @@
     <br />
     <a href="https://drive.google.com/file/d/1itKq5K-_9NWnvV7kbW4jGxd6lTLQHwen/view?usp=sharing">View Video</a>
     ·
-    <a href="https://diagnosify.streamlit.app/">View Deployment</a>
+    <a href="https://apps.healthuniverse.com/bhr-rwr-ghi/">View Deployment</a>
   </p>
 </div>
 
@@ -75,24 +75,8 @@ The inspiration behind the creation of Diagnosify stems from the pressing need f
 
 3. <b>Technological Advancements in Medical Imaging: </b> The rapid advancements in medical imaging technologies, such as MRI, CT scans, and dermatological imaging, have led to an abundance of data that can potentially be harnessed for disease diagnosis. Diagnosify leverages these technologies to analyze intricate medical images and data, extracting valuable insights that can aid in disease classification.
 
-
-### Health Universe <img src="images/inspo.png" alt="png" width="30">
-Health Universe is an open-source platform that aggregates, organizes, and operationalizes 1-click models, from basic scientific research to state-of-the-art AI. It is a community bringing cutting-edge statistical models to researchers, drug developers, health policy researchers, and clinicians at the point of care to improve outcomes and lower costs.
-
-Health Universe is a web-based platform that allows users to search for and deploy models, as well as contribute their own models. The platform provides a variety of features to help users find the right model for their needs, including:
-
-1. <b>A search engine that allows users to search for models by keyword, disease, or other criteria </b>
-
-2. <b>A catalog of models that includes information about each model, such as its performance, vetting status, and origin </b>
-
-3. <b>The ability to deploy models in a variety of settings, including Jupyter notebooks, Streamlit apps, and R Markdown documents </b>
-
-4. <b>The ability to contribute models to the platform </b>
-
-Health Universe is still under development, but it has the potential to revolutionize the way health research is conducted. By making it easy for researchers to find and deploy models, Health Universe can help to accelerate the pace of discovery and improve the quality of care.
-
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
-The "Diagnosify - Brain Disease Classification" project has the potential to create significant social impact in several ways:
+The "Diagnosify - HealthUniverse" project has the potential to create significant social impact in several ways:
 
 1. Early Detection and Treatment: By accurately predicting diseases like brain tumors, Alzheimer's, and Parkinson's Disease, the project can enable early detection and intervention. Early diagnosis often leads to more effective treatment options and improved patient outcomes.
 2. Healthcare Access: Diagnosify can extend medical expertise to underserved and remote areas where access to specialized healthcare may be limited. This democratization of medical diagnosis can ensure that individuals in various geographical locations receive timely and accurate predictions.
@@ -217,6 +201,23 @@ These are the steps involved in making this project:
 * Deploying the Model as a Web Application using Streamlit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Deploying the Project with Health Universe
+
+To deploy the project with Health Universe, I followed these steps:
+
+1. <b>We pushed our local repo to GitHub. </b>
+
+2. <b>Created a Health Universe account </b>
+
+3. <b>Went to https://healthuniverse.com and navigated to "Apps</b>
+
+4. <b>Clicked "Add App" to create a new app</b>
+
+5. <b>Filled out detailed about App Name, Description, Github Account, Github Repo and Main File</b>
+
+6. <b>Clicked "Add App" to deploy our app</b>
 
 ## What we learned <img src="images/learn.png" alt="png" width="30">
 ✅Building Diagnosify using oneDNN and Intel oneAPIs has been a transformative journey, providing us with a deep understanding of cutting-edge technologies and their practical applications in the field of brain disease classification. Here's a summary of key learnings from this experience:

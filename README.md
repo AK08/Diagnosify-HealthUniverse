@@ -111,7 +111,7 @@ To deploy the project with Health Universe, I followed these steps:
 The Health Universe platform made it easy to us to deploy this project. We were able to find a suitable model quickly and easily, and the platform provided clear instructions on how to configure and test the model.
 
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
-The "Diagnosify - Brain Disease Classification" project has the potential to create significant social impact in several ways:
+The "Diagnosify - HealthUniverse" project has the potential to create significant social impact in several ways:
 
 1. Early Detection and Treatment: By accurately predicting diseases like brain tumors, Alzheimer's, and Parkinson's Disease, the project can enable early detection and intervention. Early diagnosis often leads to more effective treatment options and improved patient outcomes.
 2. Healthcare Access: Diagnosify can extend medical expertise to underserved and remote areas where access to specialized healthcare may be limited. This democratization of medical diagnosis can ensure that individuals in various geographical locations receive timely and accurate predictions.

@@ -46,6 +46,7 @@
     <li><a href="#what-it-does">What it does</a></li>
     <li><a href="#how-we-built-it">How we built it</a></li>
     <li><a href="#what-we-learned">What we learned</a></li>
+    <li><a href="#Deploying-the-Project-with-Health-Universe">Deploying the Project with Health Universe</a></li>
     <li><a href="#references-for-datasets">References for datasets</a></li>
   </ol>
 </details>
@@ -203,7 +204,7 @@ These are the steps involved in making this project:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Deploying the Project with Health Universe
+## Deploying the Project with Health Universe
 
 To deploy the project with Health Universe, I followed these steps:
 

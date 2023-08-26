@@ -220,6 +220,8 @@ To deploy the project with Health Universe, I followed these steps:
 
 6. <b>Clicked "Add App" to deploy our app</b>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## What we learned <img src="images/learn.png" alt="png" width="30">
 ✅Building Diagnosify using oneDNN and Intel oneAPIs has been a transformative journey, providing us with a deep understanding of cutting-edge technologies and their practical applications in the field of brain disease classification. Here's a summary of key learnings from this experience:
 
